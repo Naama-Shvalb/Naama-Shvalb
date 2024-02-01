@@ -11,4 +11,5 @@
    Thriving in team environments, I relish meaningful discussions and idea-sharing
    
 📫 Contact me: You can reach me via my email: naamah.shv@gmail.com
+
 Happy coding! 🚀
