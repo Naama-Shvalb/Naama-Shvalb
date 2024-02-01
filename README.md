@@ -1,4 +1,4 @@
-👋 Hey there! I'm Naama Shvalb, a computer science enthusiast on a perpetual journey of learning and creation.
+👋 Hey there! I'm Naama Shvalb, a computer science student on a perpetual journey of learning and creation.
 
 🚀 Coding is my passion:  crafting sleek web applications, diving into the intricacies of algorithms, and building robust software. 
    I find pure joy in turning ideas into reality through the art of programming. 
