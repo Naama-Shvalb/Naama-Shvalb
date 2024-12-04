@@ -10,6 +10,6 @@
 🌐 Collaboration and Growth: I firmly believe that the best learning happens through collaboration.
    Thriving in team environments, I relish meaningful discussions and idea-sharing
    
-📫 Contact me: You can reach me via my email: naamah.shv@gmail.com
+📫 Contact me: You can reach me via email: naamah.shv@gmail.com and [Linkedin](http://www.linkedin.com/in/naama-shvalb-bb7388322)
 
 Happy coding! 🚀
